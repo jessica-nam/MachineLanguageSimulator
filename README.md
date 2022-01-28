@@ -5,7 +5,7 @@
 > The program then prints out the sums calculated into the console
 > If the program is unsuccessful in opening the file, the program prints an error message and exits.
 
-[![WSL Version][wsl-image]][https://docs.microsoft.com/en-us/windows/wsl/install]
+https://www.virtualbox.org/wiki/Downloads
 
 This software is designed as is for an in class project.
 
@@ -13,6 +13,7 @@ This software is designed as is for an in class project.
 > Install Linux or the windows subsystem
 
 ## Usage example
+> git clone the repository into build environment
 > Navigate to build folder
 > In the console, compile the program by "g++ driver.cpp"
 > Then, run the executable by typing "./a.out"
